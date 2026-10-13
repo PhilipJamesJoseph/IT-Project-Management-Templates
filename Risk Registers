@@ -1,0 +1,10 @@
+# Risk Register: [Swasta App MFA Rollout]
+
+**Date Updated:** [October 2026]
+**Project Manager:** Philip James Joseph
+
+| Risk ID | Description | Impact (High/Med/Low) | Likelihood (High/Med/Low) | Mitigation Strategy | Owner |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **R-01** | [End-users get locked out due to misconfigured MFA app.] | [High] | [Medium] | [Create step-by-step PDF login guide; schedule IT support on standby for Go-Live day.] | [Philip James Joseph] |
+| **R-02** | [Lead Developer unavailable due to illness during rollout.] | [High] | [Low] | [Document all deployment steps in Confluence so a backup dev can execute.] | [IT Team] |
+| **R-03** | [Delayed approval from Operations Director.] | [Medium] | [Medium] | [Schedule weekly 15-minute syncs to ensure continuous sign-off.] | [Philip James Joseph] |
